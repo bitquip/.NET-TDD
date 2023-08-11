@@ -1,5 +1,3 @@
-## Why Test-Driven Development?
-
 <details markdown="block">
    <summary>Table of Contents</summary>
    
@@ -87,6 +85,8 @@
 </details>
 
 ---
+
+## Why Test-Driven Development?
 
 ![TDD Blueprint](https://miro.medium.com/v2/resize:fit:1400/0*m9IeLR30F2AAtlwu.jpg)
 
