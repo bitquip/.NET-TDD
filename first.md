@@ -175,3 +175,8 @@ Now, let's dive into the Anatomy of a Test, where we break down the **Arrange**,
 In the upcoming sections, we will write more tests for the `Gear` class and implement the corresponding functionality to make the tests pass.
 
 **By following the red-green-refactor cycle, we ensure that our code is thoroughly tested and functional.**
+
+<br>
+<br>
+
+**Previous: [Writing First Unit Test?](https://bitquip.github.io/.NET-TDD/first)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Adding Another Test](https://bitquip.github.io/.NET-TDD/another)**
