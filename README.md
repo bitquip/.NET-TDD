@@ -1,7 +1,8 @@
 # Introduction to Test-Driven Development (TDD) in .NET
 
-<details markdown="block" open><summary>Table of Contents</summary><p>
-
+<details markdown="block" open>
+   <summary>Table of Contents</summary>
+   
 
 1. [Introduction to Test-Driven Development (TDD) in .NET](#introduction-to-test-driven-development-tdd-in-net)
    - Why Test-Driven Development?
@@ -63,7 +64,7 @@
 
 
 
-</p></details>
+</details>
 
 
 ---
