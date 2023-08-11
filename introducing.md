@@ -112,5 +112,5 @@ By adhering to the TDD methodology, we ensure that our code is extensively teste
 
 <br>
 
-> **Warning**
-> **Next:** [Why Test-Driven Development?](https://bitquip.github.io/.NET-TDD/why)
+
+**Next:** [Why Test-Driven Development?](https://bitquip.github.io/.NET-TDD/why)
