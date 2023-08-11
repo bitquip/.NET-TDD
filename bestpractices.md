@@ -1,5 +1,3 @@
----
-
 ## Applying TDD Best Practices
 
 As we become more adept at Test-Driven Development (TDD), it's important to discuss best practices that can help us apply TDD effectively in real-world scenarios.
@@ -37,5 +35,3 @@ Test-Driven Development is not just a process but a mindset. By adhering to best
 You've gained a solid understanding of TDD best practices and how to apply them effectively. By embracing these guidelines, you're on a path to creating reliable, maintainable, and robust code.
 
 Stay engaged as we delve into more advanced topics in TDD and explore the depths of .NET development even further!
-
----
