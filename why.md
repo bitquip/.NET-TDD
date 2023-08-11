@@ -138,4 +138,4 @@ Let's dive in and explore the world of TDD in .NET development!
 
 <br>
 
-**Previous: [Introduction](https://bitquip.github.io/.NET-TDD/introducing)** &nbsp; &nbsp; &nbsp; &nbsp; **Next: [Getting Started](https://bitquip.github.io/.NET-TDD/started)**
+**Previous: [Introduction](https://bitquip.github.io/.NET-TDD/introducing)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Getting Started](https://bitquip.github.io/.NET-TDD/started)**
