@@ -1,11 +1,10 @@
 # Introduction to Test-Driven Development (TDD) in .NET
 
+> **Warning**
+> **This page is a monolith of the whole tutorial!**
 
-[!WARNING]  
-**This page is a monolith of the whole tutorial!**
-
-[!NOTE]  
-**Use the table of contents located directly below this line to navigate a single page at a time!**
+> **Note**
+> **Use the table of contents located directly below this line to navigate a single page at a time!**
 
 
 <details markdown="block" open>
