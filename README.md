@@ -44,7 +44,7 @@
 
 
 
-6. [Organizing Tests with Test Suites](#organizing-tests-with-test-suites)
+6. [Organizing Tests with Test Suites]([#organizing-tests-with-test-suites](https://bitquip.github.io/.NET-TDD/introducing))
    - Introducing Test Suites
    - Step 18: Organizing Tests into Suites
 
