@@ -166,4 +166,11 @@ By systematically writing tests and implementing code, you're creating a robust 
 
 Our journey into TDD and .NET development continues as we explore more aspects of the `Gear` class.
 
-Moving onward!
+> Moving onward!
+
+
+
+<br>
+<br>
+
+**Previous: [Writing Another Test](https://bitquip.github.io/.NET-TDD/another)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Evolving Code Through Refactoring](https://bitquip.github.io/.NET-TDD/refactoring)**
