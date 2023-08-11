@@ -1,3 +1,91 @@
+<details markdown="block">
+   <summary>Table of Contents</summary>
+   
+
+1. [Introduction to Test-Driven Development (TDD) in .NET](https://bitquip.github.io/.NET-TDD/introducing)
+   - Welcome!
+   - Strap in, and off you go!
+
+
+2. [Why Test-Driven Development?](https://bitquip.github.io/.NET-TDD/why)
+   - The Red-Green-Refactor Process
+   - Red
+   - Green
+   - Refactor
+
+  
+3. [Getting Started](https://bitquip.github.io/.NET-TDD/started)
+   - Prerequisites
+   - Setting Up
+   - Understanding the setup
+  
+
+4. [Writing Tests for the Gear Class](https://bitquip.github.io/.NET-TDD/first)
+   - Your First Test: Calculating Base Diameter
+     
+   - Writing More Tests for the Gear Class
+   - Evolving Code Through Test-Driven Refactorings
+
+
+5. [Adding More Tests](https://bitquip.github.io/.NET-TDD/another)
+   - Testing Pitch Calculation
+   - Implementing the Gear Class Functionality
+   - The Red-Green-Refactor Cycle Continues!
+
+  
+6. [Enhancing the Gear Class](https://bitquip.github.io/.NET-TDD/more)
+   - Testing Pitch Diameter Calculation
+   - Implementing More Gear Class Functionality
+   - Nice work!
+
+  
+7. [Evolving Code Through Test-Driven Refactorings](https://bitquip.github.io/.NET-TDD/refactoring)
+   - Testing New Functionality: Gear Ratio
+   - Test-Driven Refactoring
+
+
+8. [Ensuring Code Quality with Test Coverage](https://bitquip.github.io/.NET-TDD/coverage)
+   - Understanding Test Coverage
+   - Interpreting the Coverage Report
+   - Embracing Test-Driven Development and Test Coverage
+
+
+9. [Mastering Unit Testing with Test Doubles](https://bitquip.github.io/.NET-TDD/mocks)
+   - Introducing Test Doubles
+   - Step 14: Using Test Doubles
+   - Writing Tests with Mocks
+   - Step 15: Writing Tests with Mocks
+   - Implementing Code with Mocked Dependencies
+   - Step 16: Implementing Code with Mocked Dependencies
+   - Embracing Isolation with Test Doubles
+
+
+10. [Efficient Testing with Parameterized Tests](https://bitquip.github.io/.NET-TDD/parameterized)
+   - Introducing Parameterized Tests
+   - Step 17: Writing Parameterized Tests
+   - Achieving Comprehensive Testing with Efficiency
+
+
+11. [Organizing Tests with Test Suites](https://bitquip.github.io/.NET-TDD/organization)
+   - Introducing Test Suites
+   - Step 18: Organizing Tests into Suites
+
+
+12. [Applying TDD Best Practices](https://bitquip.github.io/.NET-TDD/bestpractices)
+   - Real-World TDD: Best Practices and Considerations
+   - Step 19: Real-World TDD Best Practices
+
+
+13. [Conclusion: Your Journey in Test-Driven Development](https://bitquip.github.io/.NET-TDD/conclusion)
+    - Congratulations on your hard work!
+    - Key Takeaways
+    - Continuing your excellence
+
+
+</details>
+
+---
+
 Now that we have a clear understanding of the project setup and the provided code, it's time to start implementing the Test-Driven Development (TDD) approach. TDD is a powerful methodology that guides us in creating robust and reliable code by writing tests before implementing the actual functionality.
 
 ## Writing Tests for the Gear Class
