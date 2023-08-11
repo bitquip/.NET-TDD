@@ -189,4 +189,4 @@ Now that we have a clear understanding of the project setup and the provided cod
 <br>
 <br>
 
-**Previous: [Introduction](https://bitquip.github.io/.NET-TDD/why)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Getting Started](https://bitquip.github.io/.NET-TDD/another)**
+**Previous: [Why TDD?](https://bitquip.github.io/.NET-TDD/why)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/first)**
