@@ -191,3 +191,7 @@ If all goes well, you should see that the tests pass, indicating that the `Gear`
 You've embraced the red-green-refactor cycle and witnessed how it guides you in creating reliable software.
 
 In the upcoming sections, we'll continue to write tests, implement code, and refine our application. Stay engaged as we journey further into the world of TDD in .NET development!
+
+
+
+**Previous: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/why)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Enhancing Gear Class Through Testing](https://bitquip.github.io/.NET-TDD/more)**
