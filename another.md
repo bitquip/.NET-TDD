@@ -194,4 +194,4 @@ In the upcoming sections, we'll continue to write tests, implement code, and ref
 
 
 
-**Previous: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/why)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Enhancing Gear Class Through Testing](https://bitquip.github.io/.NET-TDD/more)**
+**Previous: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/first)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Enhancing Gear Class Through Testing](https://bitquip.github.io/.NET-TDD/more)**
