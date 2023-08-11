@@ -109,3 +109,5 @@ Test Driven Development (TDD) transforms your team into a well-oiled machine. Th
 This tutorial guides you through the creation of a .NET Console Application for calculating gear properties. 
 
 By adhering to the TDD methodology, we ensure that our code is extensively tested, sturdy, and more manageable in the long run. Through this journey, you'll experience how TDD can truly be a "Game Changer."
+
+> !INFO Next: [Why Test-Driven Development?](https://bitquip.github.io/.NET-TDD/why)
