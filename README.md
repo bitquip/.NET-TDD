@@ -56,7 +56,7 @@
 
 Welcome to the world of Test-Driven Development (TDD) in .NET!
 
-<br />
+<br>
 
 TDD is a crucial practice in modern software development that prioritizes writing tests before writing actual code.
 
