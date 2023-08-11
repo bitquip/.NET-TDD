@@ -179,4 +179,4 @@ In the upcoming sections, we will write more tests for the `Gear` class and impl
 <br>
 <br>
 
-**Previous: [Writing First Unit Test?](https://bitquip.github.io/.NET-TDD/first)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Adding Another Test](https://bitquip.github.io/.NET-TDD/another)**
+**Previous: [Writing First Unit Test?](https://bitquip.github.io/.NET-TDD/started)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Adding Another Test](https://bitquip.github.io/.NET-TDD/another)**
