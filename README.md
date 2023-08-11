@@ -1,48 +1,51 @@
 # Introduction to Test-Driven Development (TDD) in .NET
 
-## Table of Contents
+<details>
+   <summary>## Table of Contents</summary>
+   
+   1. [Introduction to Test-Driven Development (TDD) in .NET](#introduction-to-test-driven-development-tdd-in-net)
+      - Why Test-Driven Development?
+      - Getting Started
+      - Understanding the Provided Code
+   
+   2. [Writing Tests for the Gear Class](#writing-tests-for-the-gear-class)
+      - The Red-Green-Refactor Process
+      - Your First Test: Calculating Base Diameter
+      - Writing More Tests for the Gear Class
+      - Evolving Code Through Test-Driven Refactorings
+   
+   3. [Ensuring Code Quality with Test Coverage](#ensuring-code-quality-with-test-coverage)
+      - Understanding Test Coverage
+      - Interpreting the Coverage Report
+      - Embracing Test-Driven Development and Test Coverage
+   
+   4. [Mastering Unit Testing with Test Doubles](#mastering-unit-testing-with-test-doubles)
+      - Introducing Test Doubles
+      - Step 14: Using Test Doubles
+      - Writing Tests with Mocks
+      - Step 15: Writing Tests with Mocks
+      - Implementing Code with Mocked Dependencies
+      - Step 16: Implementing Code with Mocked Dependencies
+      - Embracing Isolation with Test Doubles
+   
+   5. [Efficient Testing with Parameterized Tests](#efficient-testing-with-parameterized-tests)
+      - Introducing Parameterized Tests
+      - Step 17: Writing Parameterized Tests
+      - Achieving Comprehensive Testing with Efficiency
+   
+   6. [Organizing Tests with Test Suites](#organizing-tests-with-test-suites)
+      - Introducing Test Suites
+      - Step 18: Organizing Tests into Suites
+   
+   7. [Applying TDD Best Practices](#applying-tdd-best-practices)
+      - Real-World TDD: Best Practices and Considerations
+      - Step 19: Real-World TDD Best Practices
+   
+   8. [Conclusion: Your Journey in Test-Driven Development](#conclusion-your-journey-in-test-driven-development)
+   
+   9. [Acknowledgments](#acknowledgments)
 
-1. [Introduction to Test-Driven Development (TDD) in .NET](#introduction-to-test-driven-development-tdd-in-net)
-   - Why Test-Driven Development?
-   - Getting Started
-   - Understanding the Provided Code
-
-2. [Writing Tests for the Gear Class](#writing-tests-for-the-gear-class)
-   - The Red-Green-Refactor Process
-   - Your First Test: Calculating Base Diameter
-   - Writing More Tests for the Gear Class
-   - Evolving Code Through Test-Driven Refactorings
-
-3. [Ensuring Code Quality with Test Coverage](#ensuring-code-quality-with-test-coverage)
-   - Understanding Test Coverage
-   - Interpreting the Coverage Report
-   - Embracing Test-Driven Development and Test Coverage
-
-4. [Mastering Unit Testing with Test Doubles](#mastering-unit-testing-with-test-doubles)
-   - Introducing Test Doubles
-   - Step 14: Using Test Doubles
-   - Writing Tests with Mocks
-   - Step 15: Writing Tests with Mocks
-   - Implementing Code with Mocked Dependencies
-   - Step 16: Implementing Code with Mocked Dependencies
-   - Embracing Isolation with Test Doubles
-
-5. [Efficient Testing with Parameterized Tests](#efficient-testing-with-parameterized-tests)
-   - Introducing Parameterized Tests
-   - Step 17: Writing Parameterized Tests
-   - Achieving Comprehensive Testing with Efficiency
-
-6. [Organizing Tests with Test Suites](#organizing-tests-with-test-suites)
-   - Introducing Test Suites
-   - Step 18: Organizing Tests into Suites
-
-7. [Applying TDD Best Practices](#applying-tdd-best-practices)
-   - Real-World TDD: Best Practices and Considerations
-   - Step 19: Real-World TDD Best Practices
-
-8. [Conclusion: Your Journey in Test-Driven Development](#conclusion-your-journey-in-test-driven-development)
-
-9. [Acknowledgments](#acknowledgments)
+</details>
 
 ---
 
