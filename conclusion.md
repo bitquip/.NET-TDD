@@ -1,5 +1,3 @@
----
-
 ## Conclusion: Your Journey in Test-Driven Development
 
 Congratulations! You've embarked on a journey into the world of Test-Driven Development (TDD). Through this tutorial, you've learned fundamental concepts, best practices, and techniques that will empower you to build high-quality software with confidence.
