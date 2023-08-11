@@ -11,6 +11,14 @@
 //   color: #ffffff;
 // }
 
+header {
+  border-radius: 8px 8px 0 0;
+  background: linear-gradient(#DDFBFC, #706fd3);
+  position: relative;
+  padding: 15px 20px;
+  border-bottom: 1px solid #B2D2E1;
+  color: #cd6133;
+}
 section {
   background: linear-gradient(#f7f1e3, #f7f1e3 700px);
   padding: 15px 20px;
