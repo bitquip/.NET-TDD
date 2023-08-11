@@ -79,11 +79,9 @@
 
 
 13. [Conclusion: Your Journey in Test-Driven Development](https://bitquip.github.io/.NET-TDD/conclusion)
-
-
-
-14. [Acknowledgments](#acknowledgments)
-
+    - Congratulations on your hard work!
+    - Key Takeaways
+    - Continuing your excellence
 
 
 </details>
