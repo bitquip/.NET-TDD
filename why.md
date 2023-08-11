@@ -137,4 +137,4 @@ You'll witness firsthand how TDD helps us build robust, reliable, and well-teste
 Let's dive in and explore the world of TDD in .NET development!
 
 <br>
-> <pre>**Previous: [Introduction](https://bitquip.github.io/.NET-TDD/introducing)                         Next: [Getting Started](https://bitquip.github.io/.NET-TDD/started)**</pre>
+<pre>**Previous: [Introduction](https://bitquip.github.io/.NET-TDD/introducing)                    Next: [Getting Started](https://bitquip.github.io/.NET-TDD/started)**</pre>
