@@ -121,3 +121,10 @@ TDD is not just a technique—it's a mindset and a journey. As you move forward,
 Remember, your journey in TDD is ongoing. Embrace the process, celebrate your successes, and keep striving to become a proficient and confident TDD practitioner.
 
 Thank you for joining us on this tutorial. Best of luck on your journey of Test-Driven Development and continuous improvement in software development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/bestpractices" style="margin: 10px; text-decoration: none;">← Best Practices</a>
+    <span style="margin: 10px;"></span>
+</div>
