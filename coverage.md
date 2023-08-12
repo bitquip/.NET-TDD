@@ -132,7 +132,7 @@ Stay engaged as we explore advanced TDD concepts and further enrich our knowledg
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/coverage" style="margin: 10px; text-decoration: none;">← Test Coverage</a>
+    <a href="https://bitquip.github.io/.NET-TDD/refactorings" style="margin: 10px; text-decoration: none;">← Evolving Code Through Refactoring</a>
     <span style="margin: 10px;"></span>
     <a href="https://bitquip.github.io/.NET-TDD/mocks" style="margin: 10px; text-decoration: none;">Mocks and Stubs →</a>
 </div>
