@@ -139,8 +139,8 @@ Let's dive in and explore the world of TDD in .NET development!
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/introducing" style="margin: 10px; text-decoration: none;">← Previous</a>
+    <a href="https://bitquip.github.io/.NET-TDD/introducing" style="margin: 10px; text-decoration: none;">← Introduction</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/started" style="margin: 10px; text-decoration: none;">Next →</a>
+    <a href="https://bitquip.github.io/.NET-TDD/started" style="margin: 10px; text-decoration: none;">Getting Started →</a>
 </div>
 
