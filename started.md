@@ -189,7 +189,7 @@ Now that we have a clear understanding of the project setup and the provided cod
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://bitquip.github.io/.NET-TDD/why" style="margin: 10px; text-decoration: none;">← Previous</a>
+    <a href="https://bitquip.github.io/.NET-TDD/why" style="margin: 10px; text-decoration: none;">← Why Test-Driven Development</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/first" style="margin: 10px; text-decoration: none;">Next →</a>
+    <a href="https://bitquip.github.io/.NET-TDD/first" style="margin: 10px; text-decoration: none;">Writing First Unit Test →</a>
 </div>
