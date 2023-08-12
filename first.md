@@ -177,6 +177,9 @@ In the upcoming sections, we will write more tests for the `Gear` class and impl
 **By following the red-green-refactor cycle, we ensure that our code is thoroughly tested and functional.**
 
 <br>
-<br>
 
-**Previous: [Getting Started](https://bitquip.github.io/.NET-TDD/started)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Adding Another Test](https://bitquip.github.io/.NET-TDD/another)**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/started" style="margin: 10px; text-decoration: none;">← Previous</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/another" style="margin: 10px; text-decoration: none;">Next →</a>
+</div>
