@@ -172,3 +172,11 @@ Through the use of test doubles like mocks, you can isolate code from its depend
 You've gained a valuable skill in using test doubles to improve the effectiveness of your unit tests. By mastering the art of isolating dependencies, you're enhancing the reliability of your codebase.
 
 Stay engaged as we delve into more advanced topics in TDD and further explore the depths of .NET development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/coverage" style="margin: 10px; text-decoration: none;">← Test Coverage</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/parameterized" style="margin: 10px; text-decoration: none;">Test Parameterization →</a>
+</div>
