@@ -192,6 +192,10 @@ You've embraced the red-green-refactor cycle and witnessed how it guides you in 
 
 In the upcoming sections, we'll continue to write tests, implement code, and refine our application. Stay engaged as we journey further into the world of TDD in .NET development!
 
+<br>
 
-
-**Previous: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/first)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Enhancing Gear Class Through Testing](https://bitquip.github.io/.NET-TDD/more)**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/first" style="margin: 10px; text-decoration: none;">← Writing First Unit Test</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/more" style="margin: 10px; text-decoration: none;">More Tests →</a>
+</div>
