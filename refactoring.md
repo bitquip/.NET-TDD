@@ -172,3 +172,11 @@ With this refactor, we're making the code more understandable and maintaining it
 You've successfully evolved your codebase through test-driven refactorings. By adhering to TDD principles, you've ensured that your application remains reliable while accommodating new features.
 
 Stay engaged as we continue to explore advanced TDD concepts and delve deeper into .NET development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/more" style="margin: 10px; text-decoration: none;">← Enhancing Gear Class</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/coverage" style="margin: 10px; text-decoration: none;">Test Coverage →</a>
+</div>
