@@ -128,3 +128,11 @@ By combining TDD with a focus on high test coverage, you're creating a powerful 
 You've gained insights into the importance of test coverage and how it contributes to the quality and reliability of your application. As you continue your journey in TDD and .NET development, remember to strive for comprehensive coverage while writing tests for new features and enhancements.
 
 Stay engaged as we explore advanced TDD concepts and further enrich our knowledge of .NET development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/coverage" style="margin: 10px; text-decoration: none;">← Test Coverage</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/mocks" style="margin: 10px; text-decoration: none;">Mocks and Stubs →</a>
+</div>
