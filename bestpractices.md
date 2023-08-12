@@ -123,3 +123,11 @@ Test-Driven Development is not just a process but a mindset. By adhering to best
 You've gained a solid understanding of TDD best practices and how to apply them effectively. By embracing these guidelines, you're on a path to creating reliable, maintainable, and robust code.
 
 Stay engaged as we delve into more advanced topics in TDD and explore the depths of .NET development even further!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/organization" style="margin: 10px; text-decoration: none;">← Using Test Suites</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/conclusion" style="margin: 10px; text-decoration: none;">Closing Thoughts →</a>
+</div>
