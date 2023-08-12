@@ -121,7 +121,7 @@ TDD is not just a technique—it's a mindset and a journey. As you move forward,
 Remember, your journey in TDD is ongoing. Embrace the process, celebrate your successes, and keep striving to become a proficient and confident TDD practitioner.
 
 
-[MEMS Device](https://www.allaboutcircuits.com/uploads/articles/techart_MEMS_1.jpg)
+![MEMS Device](https://www.allaboutcircuits.com/uploads/articles/techart_MEMS_1.jpg)
 
 
 Thank you for joining us on this tutorial. Best of luck on your journey of Test-Driven Development and continuous improvement in software development!
