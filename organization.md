@@ -144,3 +144,11 @@ As your codebase expands, maintaining a well-organized suite of tests becomes es
 Congratulations! You've learned how to organize your tests into suites, enhancing the maintainability and manageability of your testing efforts. By categorizing your tests effectively, you're simplifying the process of navigating and running your tests.
 
 Stay engaged as we dive into more advanced TDD topics and continue our exploration of .NET development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/parameterized" style="margin: 10px; text-decoration: none;">← Parameterized Tests</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/bestpractices" style="margin: 10px; text-decoration: none;">Best Practices →</a>
+</div>
