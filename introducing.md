@@ -126,5 +126,5 @@ By adhering to the TDD methodology, we ensure that our code is extensively teste
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://bitquip.github.io/.NET-TDD/" style="margin: 10px; text-decoration: none;">← Monolith Site</a>
     <span style="margin: 10px;"></span>
-    <a href="https://bitquip.github.io/.NET-TDD/started" style="margin: 10px; text-decoration: none;">Getting Started →</a>
+    <a href="https://bitquip.github.io/.NET-TDD/why" style="margin: 10px; text-decoration: none;">Why Test-Driven Development? →</a>
 </div>
