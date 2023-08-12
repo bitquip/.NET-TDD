@@ -187,6 +187,9 @@ In the next section, we'll dive into the exciting world of Test-Driven Developme
 Now that we have a clear understanding of the project setup and the provided code, it's time to start implementing the Test-Driven Development (TDD) approach. TDD is a powerful methodology that guides us in creating robust and reliable code by writing tests before implementing the actual functionality.
 
 <br>
-<br>
 
-**Previous: [Why TDD?](https://bitquip.github.io/.NET-TDD/why)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Writing First Unit Test](https://bitquip.github.io/.NET-TDD/first)**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/why" style="margin: 10px; text-decoration: none;">← Previous</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/first" style="margin: 10px; text-decoration: none;">Next →</a>
+</div>
