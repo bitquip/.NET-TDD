@@ -168,9 +168,10 @@ Our journey into TDD and .NET development continues as we explore more aspects o
 
 > Moving onward!
 
-
-
-<br>
 <br>
 
-**Previous: [Writing Another Test](https://bitquip.github.io/.NET-TDD/another)** <space></space> <space></space> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **Next: [Evolving Code Through Refactoring](https://bitquip.github.io/.NET-TDD/refactoring)**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/another" style="margin: 10px; text-decoration: none;">← Another Unit Test</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/refactoring" style="margin: 10px; text-decoration: none;">Refactoring Process →</a>
+</div>
