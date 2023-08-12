@@ -113,6 +113,6 @@ By adhering to the TDD methodology, we ensure that our code is extensively teste
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <span style="margin: 0 10px;">Page 2 of 10</span>
+    <span style="margin: 0 10px;">1/13</span>
     <a href="https://bitquip.github.io/.NET-TDD/why" style="margin: 0 10px; text-decoration: none;">Next Page</a>
 </div>
