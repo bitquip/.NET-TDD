@@ -133,3 +133,11 @@ Parameterized tests allow us to achieve comprehensive testing with minimal code 
 You've unlocked the power of parameterized tests, enabling you to efficiently test your code across various scenarios. By writing tests that cover a multitude of cases, you're increasing the reliability of your application.
 
 Stay engaged as we explore more advanced TDD concepts and dive deeper into .NET development!
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://bitquip.github.io/.NET-TDD/mocks" style="margin: 10px; text-decoration: none;">← Mocks</a>
+    <span style="margin: 10px;"></span>
+    <a href="https://bitquip.github.io/.NET-TDD/organization" style="margin: 10px; text-decoration: none;">Organization Using Test Suites →</a>
+</div>
